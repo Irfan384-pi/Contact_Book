@@ -17,3 +17,5 @@ A responsive Contact Book website with an HTML/CSS/JavaScript frontend connected
 
 ## Important
 This learning version stores contacts in memory in a Python dictionary. Contacts are lost when the server stops. A later improvement is to use SQLite or JSON for persistent storage. It is intended for local learning, not production deployment.
+
+Project under process 
